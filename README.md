@@ -1,3 +1,7 @@
+#  My  Locations  🤳 🗺
+
+This an application made with MERN Stack which is able to users to share their locations with images amoung others.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
